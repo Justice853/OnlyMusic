@@ -9,6 +9,7 @@
 ## 预览效果
 
 - **推荐页，排行榜页，歌手页**
+
 ![推荐页](http://tu.cxp853.top/images/2020/07/29/9c30ffa615a07b6f5f266b5760ed08b.md.png "推荐页")
 
 ![排行榜页](http://tu.cxp853.top/images/2020/07/29/b3fd5a2865bbb526c2c6fd81f7445be.md.png "排行榜页")
