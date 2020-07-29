@@ -10,7 +10,7 @@
 
 - **推荐页，排行榜页，歌手页**
  
-<img src="http://tu.cxp853.top/images/2020/07/29/9c30ffa615a07b6f5f266b5760ed08b.md.png" width=50% height=50%>
+<img src="http://tu.cxp853.top/images/2020/07/29/9c30ffa615a07b6f5f266b5760ed08b.md.png" width=10% height=10%>
 
 ![推荐页](http://tu.cxp853.top/images/2020/07/29/9c30ffa615a07b6f5f266b5760ed08b.md.png "推荐页")
 
