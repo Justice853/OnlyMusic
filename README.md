@@ -30,4 +30,15 @@
 
 </span>
 
+- **播放列表，播放器，搜索页面**
+
+<span>
+<img src="http://tu.cxp853.top/images/2020/07/29/59235cde30387e6b29398cc12159722.md.png" width=30% height=30%>
+
+<img src="http://tu.cxp853.top/images/2020/07/29/8fb93254899805acbac87c947b949cd.md.png" width=30% height=30%>
+
+<img src="http://tu.cxp853.top/images/2020/07/29/3d29c9adc8bc78c06ffe81a39a1d5ee.md.png" width=30% height=30%>
+
+</span>
+
 
