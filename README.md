@@ -13,7 +13,8 @@
 
 ## 我使用了什么技术？
 
-#### 前端
+#### 前端相关
+
 - [Vue](https://cn.vuejs.org/ "Vue")：用于构建用户界面的 MVVM 框架
 - [vue-router](https://router.vuejs.org/zh/ "vue-router")：为单页面应用提供的路由系统，使用了 Lazy Loading Routes 技术来实现异步加载优化性能
 - [vuex](https://vuex.vuejs.org/zh/ "vuex")：Vue 集中状态管理，在多个组件共享某些状态时非常便捷
@@ -22,13 +23,13 @@
 - [Stylus](https://stylus.bootcss.com/ "Stylus")：富于表现力、动态的、健壮的 Css 预编译处理器
 - [ES6](https://www.runoob.com/w3cnote/es6-tutorial.html "ES6")：ECMAScript 新一代语法，模块化、解构赋值。
 
-#### 后端
+#### 后端相关
 
 - [Node.js](https://nodejs.org/en/ "Node.js")：利用 Express 搭建的本地测试服务器
 - [vue-axios](https://cn.vuejs.org/v2/cookbook/using-axios-to-consume-apis.html "vue-axios")：用于前端与后端 API 音乐数据的交互
 - [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi "NeteaseCloudMusicApi")：网易云音乐 NodeJS 版 API，提供音乐数据
 
-#### 其他工具
+#### 工具
 
 - [vue-cli](https://cli.vuejs.org/ "vue-cli")：Vue 脚手架工具，快速初始化项目，便于项目的集中管理
 - [fontawesome](https://fontawesome.com/ "fontawesome")：一套绝佳的图标字体库和CSS框架
@@ -60,15 +61,15 @@
 
 实现功能：顺序播放、单曲循环、随机播放、收藏。
 
-播放、暂停使用 HTML5 的 audio 实现。
+播放、暂停：使用 HTML5 的 audio 实现。
 
-歌曲数据、播放状态、播放历史、收藏歌曲等方面使用了 vuex 来进行管理，因为数据太多，组件直接传递的话比较麻烦的，所以使用 vuex 进行数据传递
+歌曲数据、播放状态、播放历史、收藏歌曲：使用了 vuex 来进行管理，因为数据太多，组件直接传递的话比较麻烦的，所以使用 vuex 进行数据传递
 
-图标fontawesome图标库，中间的唱片旋转动画使用了CSS3 transform属性。
+图标：fontawesome图标库，中间的唱片旋转动画使用了CSS3 transform属性。
 
-歌词部分使用 第三方库 lyric-parser 进行处理。实现显示歌词、拖动进度条歌词同步滚动、歌词跟随歌曲进度高亮。
+歌词：使用 第三方库 lyric-parser 进行处理。实现显示歌词、拖动进度条歌词同步滚动、歌词跟随歌曲进度高亮。
 
-通过 localstorage 存储收藏歌曲数据和播放历史数据。
+数据存储：通过 localstorage 存储收藏歌曲数据和播放历史数据。
 
 播放列表：显示和管理当前播放歌曲，可以用来删除播放列表中的歌曲、以及选择播放歌曲。
 
