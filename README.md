@@ -1,7 +1,7 @@
 # Vue 就要音乐 WEBAPP
 
 
-> 基于 Vue(2.6) + vuex + vue-router + vue-axios + better-scroll + Stylus + ES6 等技术开发一款移动端音乐WebApp，UI参考了手机网页版的网易云音乐、flex布局适配常见移动端。
+> 基于 Vue(2.6) + vuex + vue-router + vue-axios + better-scroll + Stylus + ES6 等技术开发一款移动端音乐WebApp，UI参考了手机网页版的网易云音乐、flex布局适配常见移动端。如果喜欢请点个star
 
 
 ### 项目演示地址(或下方二维码)：[就要音乐](http://music.cxp853.top "就要音乐")
