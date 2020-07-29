@@ -129,5 +129,6 @@
 
 ## 致谢
 Binaryify：[NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi "NeteaseCloudMusicApi")
+
 ustbhuangyi： [Vue 实战教程](https://coding.imooc.com/class/107.html "Vue 实战教程")
 
