@@ -9,10 +9,12 @@
 ## 预览效果
 
 - **推荐页，排行榜页，歌手页**
- 
+
+<span>
 <img src="http://tu.cxp853.top/images/2020/07/29/9c30ffa615a07b6f5f266b5760ed08b.md.png" width=30% height=30%>
 
 <img src="http://tu.cxp853.top/images/2020/07/29/b3fd5a2865bbb526c2c6fd81f7445be.md.png" width=30% height=30%>
 
 <img src="http://tu.cxp853.top/images/2020/07/29/845063c20a65fc69d351e81bd1d0f6d.md.png" width=30% height=30%>
 
+</span>
