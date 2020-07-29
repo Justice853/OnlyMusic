@@ -1,6 +1,8 @@
 # Vue 就要音乐 WEBAPP
 
-> 🎹 基于 Vue(2.6) + vuex + vue-router + vue-axios + better-scroll + Stylus + ES6 等技术开发一款移动端音乐WebApp，UI界面参考了安卓网页版的网易云音乐、flex布局适配常见移动端。
+
+> 基于 Vue(2.6) + vuex + vue-router + vue-axios + better-scroll + Stylus + ES6 等技术开发一款移动端音乐WebApp，UI参考了手机网页版的网易云音乐、flex布局适配常见移动端。
+
 
 ### 项目演示地址(或下方二维码)：[就要音乐](http://music.cxp853.top "就要音乐")
 ![二维码](http://tu.cxp853.top/images/2020/07/29/QRcode_SP--3.md.jpg)
@@ -31,6 +33,7 @@
 - [vue-cli](https://cli.vuejs.org/ "vue-cli")：Vue 脚手架工具，快速初始化项目，便于项目的集中管理
 - [fontawesome](https://fontawesome.com/ "fontawesome")：一套绝佳的图标字体库和CSS框架
 - [fastclick](https://github.com/ftlabs/fastclick "fastclick") ：消除 click 移动游览器 300ms 的延迟
+
 
 
 ## 我做了什么功能
@@ -118,4 +121,13 @@
 
 </span>
 
+
+## 未来要做什么
+1. **增加会员登录，注册功能**
+2. **增加歌曲评论功能**
+3. **增加 MV、电台功能**
+
+## 致谢
+Binaryify：[NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi "NeteaseCloudMusicApi")
+ustbhuangyi： [Vue 实战教程](https://coding.imooc.com/class/107.html "Vue 实战教程")
 
